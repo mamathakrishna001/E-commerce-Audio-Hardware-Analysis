@@ -40,6 +40,7 @@ I used Pivot Tables to analyze the clean data from multiple perspectives. The ke
 I created a summary dashboard in Google Sheets to visually communicate the key findings to stakeholders at a glance.
 
 ![Audio Sales Dashboard](refined_data/dashboard-key-insights.png)
+![Charts Analysis](refined_data/visualizations/charts.png)
 
 ---
 
